@@ -1,0 +1,35 @@
+.body {
+    background-color: #E0C9A9;
+}
+
+.h2 {
+    color: #5e2610;
+}
+
+.center {
+    text-align: center;
+}
+.position{
+    list-style-position: inside;
+    text-align: left;
+    margin-left: 350px;
+    font-size: 14px;
+}
+
+.malzeme {
+    border-radius: 10px;
+    background-color: #963102;  
+    color: white;
+    margin-right: 250px;
+    display: inline-block;
+    font-size: 14px;
+}
+
+.afiyet {
+    text-align: right;
+    margin-right: 250px;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Mynerve', cursive;
+    font-family: 'Rajdhani', sans-serif;
+    font-family: 'Shantell Sans', cursive;
+}
